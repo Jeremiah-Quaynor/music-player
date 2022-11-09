@@ -26,7 +26,9 @@ export default function App() {
         horizontal
         showsHorizontalScrollIndicator={false}
       >
-
+          <View>
+            <Text>Welcome</Text>
+          </View>
       </ScrollView>
 
     </SafeAreaView>
