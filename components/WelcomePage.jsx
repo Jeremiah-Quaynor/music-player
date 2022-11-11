@@ -11,4 +11,8 @@ const WelcomePage = () => {
 
 export default WelcomePage
 
-const styles = StyleSheet.create({})
+const styles = StyleSheet.create({
+  text: {
+    color: 'white',
+  }
+})
